@@ -1,6 +1,6 @@
 # csvtojson
 
-This program was used to take a spreadsheet of student grades and turn them into a more readable json file.  This allowed for the students to search through the json file for their secret ID and find specific grades more easily than having to follow columns down in the csv.
+The program csv_to_json.py was used to take a spreadsheet of student grades and turn them into a more readable json file, scores.py.  This allowed for the students to search through the json file for their secret ID and find specific grades more easily than having to follow columns down in the csv.
 
 <img src="https://i.imgur.com/8w2Bisp.png"></img>
 
@@ -10,4 +10,4 @@ This is how the spreadsheet looked originally, although there are many more rows
 
 Each secret ID was arranged as such, so that each score was with its appropriate column value, increasing readability.
 
-Also included is a program that will find your ID when given and print out only your scores, as opposed to using ctrl f to find your scores.
+Also included is the program find_user.py that will find your ID when it is given and print out only your scores, as opposed to using ctrl f to find your scores.
