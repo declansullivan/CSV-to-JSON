@@ -9,3 +9,5 @@ This is how the spreadsheet looked originally, although there are many more rows
 <img src="https://i.imgur.com/xwYr9YM.png" width="400"></img>
 
 Each secret ID was arranged as such, so that each score was with its appropriate column value, increasing readability.
+
+Also included is a program that will find your ID when given and print out only your scores, as opposed to using ctrl f to find your scores.
