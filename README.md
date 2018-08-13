@@ -1,4 +1,4 @@
-# csvtojson
+# CSV-to-JSON
 
 <h2>Overview</h2>
 
